@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TwoActivities</string>
+    <string name="button_text">Send</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="text_header">Message Received</string>
+    <string name="editText_main">Enter Your Message Here</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="text_header_reply">Reply Received</string>
+    <string name="text_button_1">Text 1</string>
+    <string name="text_button_2">Text 2</string>
+    <string name="text_button_3">Text 3</string>
+    <string name="coding_challenge_view">Coding challenge:</string>
+    <string name="paragraph1">Text 1: A long time ago in a galaxy far, far away…</string>
+    <string name="paragraph2">Text 2 said: Cats and dogs are equally good! :) </string>
+    <string name="paragraph3">Text 3 replied: You were the Chosen One! It was said that you would destroy the myths,
+        not join them, bring balance to the world, not leave it in darkness. You were my brother, Text 2! I loved you!
+        Cats are so much better dogs</string>
+    <string name="activity3_name">Coding Challenge Activity</string>
+    <string name="error_message">If you see this, something went wrong</string>
+</resources>
